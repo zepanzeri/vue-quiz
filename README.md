@@ -1,24 +1,5 @@
-# vue-quiz
+#en
+Simple Quiz game using Vue following this tutorial: https://www.youtube.com/watch?v=4deVCNJq3qc&t
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#ptbr
+Um pagina com jogo de perguntas e respostas feito utilizando o framework Vue, utilizando o seguinte tutorial: https://www.youtube.com/watch?v=4deVCNJq3qc&t
